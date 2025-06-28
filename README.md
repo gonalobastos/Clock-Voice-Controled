@@ -13,7 +13,7 @@ With this clock, users can:
 - Receive real-time feedback through an LCD screen
 
 ## 🔧 Technologies and Components Used
-
+- C++
 - Arduino UNO  
 - RTC module (Real-Time Clock)  
 - Voice recognition module  
