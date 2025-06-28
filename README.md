@@ -1,7 +1,8 @@
-<img width="362" alt="image" src="https://github.com/user-attachments/assets/4d427f04-8192-4785-a84d-f396125d00b9" /># 📣 Voice-Controlled Alarm Clock (VCAC)
+# 📣 Voice-Controlled Alarm Clock (VCAC)
 
 Academic project focused on developing a **fully voice-controlled alarm clock**, allowing the user to interact with the system completely hands-free.
 
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/4d427f04-8192-4785-a84d-f396125d00b9" />
 [![Watch the demo](<img width="362" alt="image" src="https://github.com/user-attachments/assets/0f33f76f-ec38-4218-9d93-0f1e2908c429" />
 )](https://youtu.be/ZzRwqiBDRcc)
 
