@@ -2,6 +2,9 @@
 
 Academic project focused on developing a **fully voice-controlled alarm clock**, allowing the user to interact with the system completely hands-free.
 
+[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/ZzRwqiBDRcc)
+
+
 ## 🕒 Features
 
 With this clock, users can:
