@@ -1,4 +1,4 @@
-# 📣 Voice-Controlled Alarm Clock (VCAC)
+# 📣 Voice-Controlled Alarm Clock 
 
 Academic project focused on developing a **fully voice-controlled alarm clock**, allowing the user to interact with the system completely hands-free. Developed as part of the Project I course of the Degree in Electrical and Computer Engineering at University of Coimbra at FCTUC (2021/2022).
 
